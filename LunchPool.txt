@@ -1,0 +1,9 @@
+2,11,Culver's
+3,12,KFC
+4,13,Abe's Coffee(W/T/F)
+5,14,Mr.Pizza
+6,15,Costco
+7,16,BB's
+8,17,Half Barrel
+9,18,John Hardy's
+10,19,Twisted Barrel

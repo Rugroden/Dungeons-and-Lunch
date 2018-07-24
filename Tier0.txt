@@ -1,0 +1,9 @@
+2,11,Jimmy John's
+3,12,El Sueno's
+4,13,Chipotle
+5,14,City Market
+6,15,Temporal Slot
+7,16,Nupas
+8,17,Pot Belly's
+9,18,Pappy's Place
+10,19,Great Harvest

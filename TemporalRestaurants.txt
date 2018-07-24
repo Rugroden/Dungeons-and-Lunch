@@ -1,0 +1,5 @@
+1,Buffalo Wild Wings
+2,Crooked Pint
+3,Wandering Wednesday
+4,Thursdays on First
+5,Pasquale's
