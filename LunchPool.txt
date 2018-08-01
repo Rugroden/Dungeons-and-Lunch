@@ -5,5 +5,5 @@
 6,15,Costco
 7,16,Nupas
 8,17,Half Barrel
-9,18,Pot Belly's
+9,18,Great Harvest
 10,19,Twisted Barrel

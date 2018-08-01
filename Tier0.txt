@@ -6,4 +6,4 @@
 7,16,BB's
 8,17,John Hardy's
 9,18,Pappy's Place
-10,19,Great Harvest
+10,19,Pot Belly's
