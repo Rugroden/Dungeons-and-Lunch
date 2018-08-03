@@ -4,6 +4,6 @@
 5,14,Mr.Pizza
 6,15,Costco
 7,16,Nupas
-8,17,Half Barrel
+8,17,Chipotle
 9,18,Great Harvest
 10,19,Twisted Barrel

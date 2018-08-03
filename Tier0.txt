@@ -1,6 +1,6 @@
 2,11,Jimmy John's
 3,12,El Sueno's
-4,13,Chipotle
+4,13,Half Barrel
 5,14,City Market
 6,15,Temporal Slot
 7,16,BB's
