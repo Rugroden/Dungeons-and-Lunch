@@ -5,5 +5,5 @@
 6,15,Temporal Slot
 7,16,BB's
 8,17,John Hardy's
-9,18,Pappy's Place
+9,18,Mr.Pizza
 10,19,Pot Belly's
