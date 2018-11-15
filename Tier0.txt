@@ -1,9 +1,9 @@
 2,11,Jimmy John's
 3,12,El Sueno's
-4,13,Half Barrel
+4,13,KFC
 5,14,City Market
 6,15,Temporal Slot
-7,16,BB's
+7,16,Half Barrel
 8,17,John Hardy's
 9,18,Mr.Pizza
-10,19,Pot Belly's
+10,19,Culver's
